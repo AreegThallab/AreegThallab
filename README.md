@@ -15,12 +15,16 @@ I enjoy exploring new technologies, solving problems, and turning creative ideas
 
 <div align="center">
 
-<a href="https://github.com/AreegThallab">
-  <img src="https://cdn.simpleicons.org/github/white" height="38" alt="GitHub"/>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="Email"/>
 </a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="38" alt="LinkedIn"/>
+&nbsp;&nbsp;&nbsp;
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/AreegThallab">
+  <img src="https://cdn.simpleicons.org/github/white" height="40" alt="GitHub"/>
 </a>
 
 </div>
@@ -31,12 +35,12 @@ I enjoy exploring new technologies, solving problems, and turning creative ideas
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,django,git,github,figma&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,django,git,github,figma&theme=dark" alt="Tech Stack"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/UX%2FUI-8B5CF6?style=for-the-badge&logo=figma&logoColor=white" alt="UX/UI" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/UX%2FUI-8B5CF6?style=for-the-badge&logo=figma&logoColor=white" alt="UX/UI"/>
 
 </div>
 
@@ -46,7 +50,7 @@ I enjoy exploring new technologies, solving problems, and turning creative ideas
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AreegThallab&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AreegThallab&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most Used Languages"/>
 
 </div>
 
