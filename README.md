@@ -15,16 +15,16 @@ I enjoy exploring new technologies, solving problems, and turning creative ideas
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="Email"/>
+<a href="mailto:areegthallab@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" alt="LinkedIn"/>
+<a href="https://linkedin.com/in/areeg-albogami-">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/AreegThallab">
-  <img src="https://cdn.simpleicons.org/github/white" height="40" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="45" alt="GitHub"/>
 </a>
 
 </div>
@@ -35,12 +35,11 @@ I enjoy exploring new technologies, solving problems, and turning creative ideas
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,django,git,github,figma&theme=dark" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,django,git,github,figma,mysql&theme=dark&perline=10" alt="Tech Stack"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/UX%2FUI-8B5CF6?style=for-the-badge&logo=figma&logoColor=white" alt="UX/UI"/>
+<img src="https://img.shields.io/badge/UX%2FUI-8B5CF6?style=flat-square&logo=figma&logoColor=white" alt="UX/UI"/>
 
 </div>
 
@@ -60,7 +59,7 @@ I enjoy exploring new technologies, solving problems, and turning creative ideas
 
 <div align="center">
 
-<a href="https://github.com/AreegThallab">
+<a href="https://github.com/AreegThallab?tab=repositories">
   <img src="https://img.shields.io/badge/Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore My Projects"/>
 </a>
 
