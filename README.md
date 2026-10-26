@@ -27,7 +27,16 @@ Working as a **Software Engineer at My Trip**, with a passion for building relia
   <img src="https://skillicons.dev/icons?i=github&theme=dark" height="43" alt="GitHub"/>
 </a>
 &nbsp;&nbsp;
-<img src="https://img.icons8.com/fluency/96/domain.png" height="43" alt="Portfolio Coming Soon" title="Portfolio Coming Soon"/>
+
+<a href="https://areegthallab.pythonanywhere.com/" target="_blank">
+  <img
+    src="https://img.icons8.com/fluency/96/domain.png"
+    height="43"
+    alt="My Portfolio"
+    title="Visit My Portfolio"
+  />
+</a>
+
 
 </div>
 
